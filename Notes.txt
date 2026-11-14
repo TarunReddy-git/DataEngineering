@@ -1,0 +1,3 @@
+Python E-book - https://automatetheboringstuff.com/
+
+SQL HandBook - https://www.guvi.in/hub/dbms-and-sql-tutorial/
